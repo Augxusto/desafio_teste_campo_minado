@@ -1,11 +1,7 @@
 # desafio_teste_campo_minado
 
-## Autor
-
-- **Nome:** [SEU NOME]
-- **RA/Matrícula:** [SEU RA]
-- **Disciplina:** Teste de Software
-- **Professor(a):** [NOME DO PROFESSOR]
+- Nome: Rodrigo Augusto da Silva Virgilino
+- RA: 24139528-2 
 
 ---
 
